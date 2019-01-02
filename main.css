@@ -1,0 +1,32 @@
+#wrapp {
+    width: 700px;
+    height: 430px;
+    border: 1px solid black;
+    margin: 10px auto;
+    position: relative;
+}
+.vojnik {
+    width: 6px;
+    height: 6px;
+    border: 1px solid #ddd;
+    margin: 1px;
+    background: #eee;
+    float: left;
+}
+.sniper {
+    width: 6px;
+    height: 6px;
+    border: 1px solid #ddd;
+    margin: 1px;
+    background: tomato;
+    float: left;
+}
+#info {
+    width: 200px;
+    height: 80px;
+    border: 1px solid #ddd;
+    position: absolute;
+    border-radius: 8px;
+    background: orange;
+    display: none;
+}
